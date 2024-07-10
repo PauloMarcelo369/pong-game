@@ -11,8 +11,8 @@ Uma implementação simples do clássico jogo Pong utilizando Java. Este projeto
 
 ## Preview do jogo
 
-<div style="text-align: center">
-    ![Descrição da Imagem](sreenshots/image.png)
+<div style="text-align: center;">
+    <img src="sreenshots/image.png" alt="pong">
 </div>
 
 ## Como rodar?
